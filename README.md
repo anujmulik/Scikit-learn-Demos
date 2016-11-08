@@ -1,2 +1,2 @@
 # Scikit-learn-Demos
-Demo Projects with scimitar learn
+Demo Projects with scikit learn
